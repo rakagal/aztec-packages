@@ -1,4 +1,4 @@
----
+aztec
 title: Getting Started
 sidebar_position: 0
 tags: [sandbox. testnet]
